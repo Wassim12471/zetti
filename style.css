@@ -1,37 +1,116 @@
-body {
+.div1
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: black;
+
+}
+.div2
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(189, 42, 42);
+}
+.div3
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(37, 34, 163);
+}
+.divmaman
+{
     display: flex;
+    gap: 10px;
     justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-
 }
 
-h1 {
-    font-size: 50px;
-}
+.div11
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: black;
 
-.container{
+}
+.div12
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(189, 42, 42);
+}
+.div13
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(37, 34, 163);
+}
+.divmaman1
+{
     display: flex;
-    gap: 20px;
+    gap: 10px;
+    justify-content: space-between;
+    
 }
 
+.div21
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: black;
 
-.circle{
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
 }
-
-.red{
-    background-color: red;
+.div22
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(189, 42, 42);
 }
-
-.green{
-    background-color: green;
+.div23
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(37, 34, 163);
 }
+.divmaman2
+{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+.div31
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: black;
 
-.blue{
-    background-color: blue;
+}
+.div32
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(189, 42, 42);
+}
+.div33
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    background-color: rgb(37, 34, 163);
+}
+.divmaman3
+{
+    display: flex;
+    gap: 10px;
+    justify-content: space-evenly;
 
 }
